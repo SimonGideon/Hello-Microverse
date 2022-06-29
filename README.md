@@ -2,7 +2,7 @@
 
 # Hello-Microverse
 
-> Description the project.
+> This is my first project at microverse that display a green heading on a Web browser.
 
 
 ## Built With
@@ -11,33 +11,12 @@
 - CSS
 - GitHub Actions
 
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+**Setting up this project locally**
+- Clone the repo to you local repo.
+- Open the `index.html` file in your browser.
+*Congratulations you're done*
 
 ## Authors
 
@@ -58,11 +37,6 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
