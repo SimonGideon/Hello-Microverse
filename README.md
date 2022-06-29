@@ -2,7 +2,7 @@
 
 # Hello-Microverse
 
-> This is my first project at microverse that display a green heading on a Web browser.
+> This is my first project at microverse that displays a green heading on a Web browser.
 
 
 ## Built With
