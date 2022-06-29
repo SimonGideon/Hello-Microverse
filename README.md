@@ -16,8 +16,8 @@
 **Setting up this project locally**
 - Clone the repo to you local repo.
 - Open the `index.html` file in your browser.
--
-*🎉✨Congratulations you're done*
+
+*🎉Congratulations you're done*✨
 
 ## Authors
 
